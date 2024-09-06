@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshuaatanu&show_icons=true&locale=en" alt="thecodedaniel" /></p>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Joshuaatanu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Joshuaatau&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
