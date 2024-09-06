@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: atanu.joshua@gmail.com ...
 - ⚡ Fun fact: ...
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joshuaatanu&show_icons=true&locale=en&layout=compact" alt="thecodedaniel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joshuaaitanu&show_icons=true&locale=en&layout=compact" alt="thecodedaniel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joshuaatanu&show_icons=true&locale=en" alt="thecodedaniel" /></p>
 <div align="center">
