@@ -10,9 +10,6 @@ I'm Joshua, a passionate developer dedicated to building innovative digital expe
 - 📫 **Contact Me:** [atanu.joshua@gmail.com](mailto:atanu.joshua@gmail.com)
 - ⚡ **Fun Fact:** I thrive on combining creativity with technology to solve real-world challenges.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joshuaatanu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 
 
