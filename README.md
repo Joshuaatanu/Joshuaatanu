@@ -6,7 +6,7 @@ I'm Joshua, a passionate developer dedicated to building innovative digital expe
 - 🌱 **Learning:** Deepening my skills in Vue.js to enhance my frontend expertise.
 - 👯 **Collaborating:** Open to joining forces on React and React Native projects.
 - 🤔 **Seeking Help:** Interested in discussions around Machine Learning (ML) and Artificial Intelligence (AI).
-- 💬 **Ask Me About:** Python and JavaScript—I'd love to share insights!
+- 💬 **Ask Me About:** Python  and JavaScript—I'd love to share insights!
 - 📫 **Contact Me:** [atanu.joshua@gmail.com](mailto:atanu.joshua@gmail.com)
 - ⚡ **Fun Fact:** I thrive on combining creativity with technology to solve real-world challenges.
 
