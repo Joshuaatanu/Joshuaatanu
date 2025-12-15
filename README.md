@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm **Joshua Atanu**, an AI Engineer and the **Technical Head of AI Integrations at Invendo**, where I build intelligent automation pipelines, TV-audit tooling, multi-agent systems, and data-driven integrations.
+I'm **Joshua Atanu**, an AI Engineer where I build intelligent automation pipelines, TV-audit tooling, multi-agent systems, and data-driven integrations.
 
 Welcome to my GitHub profile! Here’s a snapshot of what I’m currently working on:
 
