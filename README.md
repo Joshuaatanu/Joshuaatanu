@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here’s a snapshot of what I’m currently workin
 - Leading **AI integrations** across Invendo
 - Building multi-agent architectures (LangGraph / MCP) for analytics  
 - Developing GenAI-powered applications: RAG systems,  OCR + LLM pipelines  
-- Expanding the **Tech Collective (Tekk Collective)** ecosystem with AI tools for startups and SMEs  
+- Expanding the **Tekk Collective** ecosystem with AI tools for startups and SMEs  
 - Architecting real-time data pipelines (Python, Node.js, Kafka, FastAPI, Django)
 
 ---
